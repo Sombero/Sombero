@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sombero
 - 👀 I’m interested in Computer Science.
 - 🌱 I’m currently learning C/Java
-- 💞️ I’m looking to collaborate on (UNKNOWN)
+- 💞️ I’m looking to collaborate on Suit Designs, Pi-Projects.
 - 📫 How to reach me : To be updated.
 
 <!---
